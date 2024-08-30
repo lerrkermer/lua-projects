@@ -8,4 +8,10 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/ControlScript/control
 wait(1)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
 
+wait(1)
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nighter132/Faded/main/YesEpic", true))()
+
 end
